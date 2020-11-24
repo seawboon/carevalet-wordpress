@@ -1,0 +1,22 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_gutener">
+            <key name="contact_phone" />
+            <key name="contact_email" />
+            <key name="contact_address" />
+            <key name="notification_bar_title" />
+            <key name="notification_bar_button_text" />
+            <key name="header_button_text" />
+            <key name="footer_text" />
+            <key name="slider_button_text" />
+            <key name="banner_title" />
+            <key name="banner_subtitle" />
+            <key name="main_banner_buttons" />
+            <key name="highlight_posts_section_title" />
+            <key name="feature_posts_section_title" />
+            <key name="post_button_text" />
+            <key name="single_post_author_title" />
+            <key name="related_posts_title" />
+        </key>
+    </admin-texts>
+</wpml-config>

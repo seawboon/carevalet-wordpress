@@ -1,0 +1,19 @@
+= 1.0.5 =
+* Updated a escaping.
+
+= 1.0.4 =
+* Updated a escaping.
+* Theme URI updated.
+
+= 1.0.3 =
+* Escaping issues fixed.
+* Style Updated.
+
+= 1.0.2 =
+* Style Updated.
+
+= 1.0.1 =
+* Style Updated.
+
+= 1.0.0 =
+* Initial release.

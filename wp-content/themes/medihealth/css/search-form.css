@@ -1,0 +1,63 @@
+.medihealth-search-form{
+    display: block;
+    width: 450px;
+    position: absolute;
+    right: 15px;
+    top: 80%;
+    margin-top: 1px;
+    z-index: 9999;
+    background: #fff;
+    padding: 20px;
+	box-shadow: 0px 0px 8px 1px #000000;
+}
+#medihealth-search-form input[type="text"] {
+    width: 78%;
+    height: auto;
+    border: 1px solid #5ca2df;
+    padding: 11px 12px;
+    border-radius: 0px !important; 
+    }
+#medihealth-search-form input[type="submit"] {
+    line-height: 1;
+    padding: 14px 20px;
+    border-radius: 0px;
+    height: auto;
+    font-size: 15px;
+    display: inline-block;
+    border: 1px solid #5ca2df;
+}
+#medihealth-search-form:before {
+    border-color: transparent transparent #000000;
+    border-style: solid;
+    border-width: 0.5em;
+    content: "";
+    display: block;
+    position: absolute;
+    right: 22px;
+    top: -20px;
+    z-index: 10;
+}
+
+/**Css for image search icon**/
+.search_icon {
+   background-repeat: no-repeat;
+   padding: 0 0 0 30px;
+   background-position: 5px center;
+   background-color: transparent;
+   background-size: 18px 18px;
+       
+}
+
+@media screen and (max-width: 480px) {
+	.medihealth-search-form{
+		display: block;
+		width: 75%;
+		position: absolute;
+		right: 54px;
+		top: 9%;
+		margin-top: 0px;
+		z-index: 1;
+		background: #fff;
+		padding: 0px;
+	}
+}

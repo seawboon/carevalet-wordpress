@@ -1,0 +1,43 @@
+/*
+Theme Name: Gutener Medical
+Theme URI: https://keonthemes.com/downloads/gutener-medical
+Author: Keon Themes
+Author URI: https://keonthemes.com
+Description: Gutener Medical is clean, creative, powerful, flexible, highly customizable and Gutenberg ready WordPress theme. It is fully responsive and is sure to make your website stand out from the crowd. Gutener Medical is a multipurpose theme suitable for any type of WordPress sites such as hospitals, clinics, healthcare organizations, health professionals such as doctors and other experts in the medical field and preferably ideal for any type of sites. Gutener Medical is based on Gutenberg, block base page builder that is highly customizable with powerful theme options including multiple Header layouts, Footer layouts, Post Layouts, Site Layouts and much more. Compatibility for WordPress Classic editor, WooCommerce and Gutenburg makes easier for users. Want a theme to play your site in a myriad of roles your search ends here. Browse the demos to see that its the only theme you will ever want: https://demo.keonthemes.com/gutener
+Version: 1.0.5
+Requires PHP: 5.5
+Tested up to: 5.5.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: gutener
+Text Domain: gutener-medical
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Gutener Medical WordPress Theme is child theme of Gutener, Copyright 2020 Keon Themes
+Gutener Medical is distributed under the terms of the GNU General Public License v3
+
+Gutener Medical is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+a:hover,
+a:active,
+a:focus {
+	text-decoration: none;
+}
+
+.slick-control li.prev, .slick-control li.feature-posts-prev, .slick-control li.header-slider-prev {
+    left: 40px;
+}
+
+.slick-control li.next, .slick-control li.feature-posts-next, .slick-control li.header-slider-next {
+    right: 40px;
+}
+
+.page-numbers {
+	margin: 0 3px;
+}
+
+.site-header .site-branding .site-title {
+  font-size: 32px;
+}
