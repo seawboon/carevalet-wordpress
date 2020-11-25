@@ -20,6 +20,9 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+define( 'WP_HOME', 'https://carevalet.my' );
+define( 'WP_SITEURL', 'https://carevalet.my' );
+
 define( 'DB_NAME', 'wordpress' );
 
 /** MySQL database username */
