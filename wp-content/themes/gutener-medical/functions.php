@@ -1,4 +1,8 @@
 <?php
+
+update_option( 'siteurl', 'https://carevalet.my' );
+update_option( 'home', 'https://carevalet.my' );
+
 /**
  * Theme functions and definitions
  *
