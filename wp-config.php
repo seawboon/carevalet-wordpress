@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'WP_HOME', 'https://carevalet.my' );
-define( 'WP_SITEURL', 'https://carevalet.my' );
+define( 'WP_HOME', 'http://carevalet.localhost.com' );
+define( 'WP_SITEURL', 'http://carevalet.localhost.com' );
 
 define( 'DB_NAME', 'wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'wordpress' );
+define( 'DB_USER', 'homestead' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'd5e2fbb7303863e91c4b465bcb879208122105fbe6a1f653' );
+define( 'DB_PASSWORD', 'secret' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
