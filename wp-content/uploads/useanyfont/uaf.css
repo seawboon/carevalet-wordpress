@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'proxima-nova-thin';
+					src: url('/wp-content/uploads/useanyfont/6824Proxima-Nova-Thin.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/6824Proxima-Nova-Thin.woff') format('woff');
+					font-display: auto;
+				}
+
+				.proxima-nova-thin{font-family: 'proxima-nova-thin' !important;}
+
+		
