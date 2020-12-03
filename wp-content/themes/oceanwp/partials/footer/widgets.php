@@ -113,7 +113,7 @@ $inner_classes = implode( ' ', $inner_classes );
 			// Footer box 3.
 			if ( $columns > '2' ) :
 				?>
-				<div class="footer-box <?php echo esc_attr( $grid_class ); ?> col col-3 ">
+				<div class="footer-box <?php echo esc_attr( $grid_class ); ?> col col-3 ">test
 					<?php dynamic_sidebar( 'footer-three' ); ?>
 				</div><!-- .footer-one-box -->
 				<?php
